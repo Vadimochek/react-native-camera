@@ -1,0 +1,9 @@
+'use strict';
+<<<<<<< HEAD
+//Последние 3 коммита 3 раза!!!!
+=======
+//Здесь всё менятеся наконец 3 раза!<<A,addasdaalasta
+>>>>>>> ff1b63e5597e35a4f3da887fec6789d2526c4129
+module.exports = {
+  extends: ['@commitlint/config-conventional'],
+};
