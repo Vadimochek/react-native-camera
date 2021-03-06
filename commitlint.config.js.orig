@@ -1,8 +1,10 @@
 'use strict';
+<<<<<<< HEAD
 
-module.exports = {//Последнее изменение!!!:
+module.exports = {//Последнее изменение!!:
 =======
 //Здесь всё менятеся наконец 3 раза!
 module.exports = {
+>>>>>>> branch1
   extends: ['@commitlint/config-conventional'],
 };
