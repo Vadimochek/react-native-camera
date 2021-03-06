@@ -1,5 +1,6 @@
 'use strict';
-//Последние 3 коммита 3 раза!!!!
+//Здесь всё менятеся наконец 3 раза!<<A,addasdaalasta
+
 module.exports = {
   extends: ['@commitlint/config-conventional'],
 };
